@@ -9,3 +9,27 @@ de los consejos en el menú de pausa o la opción de guardado.
 
 Ir a los archivos locales de Hylics 2, ir a la carpeta "Hylics2_Windows_Data" y remplazar
 todos los archivos con los que están en la carpeta "HYLIC 2 LATINO v1.0". 
+
+
+CREDITOS
+
+Juego creador por:
+Mason Lindroth
+
+Compositor:
+Chuck Salamone
+
+Traductor principal:
+Alan Garrobo
+
+Supervisor:
+Iván Monteros
+
+Ayuda adicional:
+Abym
+
+Beta tester
+Valen
+
+
+
