@@ -28,7 +28,7 @@ Iván Monteros
 Ayuda adicional:
 Abym
 
-Beta tester
+Beta tester:
 Valen
 
 
