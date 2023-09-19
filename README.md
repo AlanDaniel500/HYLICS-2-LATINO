@@ -8,7 +8,7 @@ AVISO 2: En caso de haber iniciado una partida con anterioridad, se avisa que al
 de los consejos en el menú de pausa o la opción de guardado apareceran en ingles.
 
 Ir a los archivos locales de Hylics 2, ir a la carpeta "Hylics2_Windows_Data" y remplazar
-todos los archivos con los que están en la carpeta "HYLIC 2 LATINO v1.0". 
+todos los archivos con los que están en la carpeta "HYLIC 2 LATINO v1.X". 
 
 
 CREDITOS
